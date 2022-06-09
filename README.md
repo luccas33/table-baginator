@@ -1,1 +1,1 @@
-table-paginator
+Paginação de tabela com JS puro
